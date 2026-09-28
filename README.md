@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1D2B27,100:0E7A55&height=120&section=header&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:0E7A55,100:1D2B27&section=header" width="100%" />
 
 # Hola, soy Miguel Ángel
 
@@ -98,4 +98,4 @@ Soy graduado en Tecnología Digital y Multimedia por la UPV y me interesa sobre 
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0E7A55,100:1D2B27&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:1D2B27,100:0E7A55&section=footer" width="100%" />

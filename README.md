@@ -27,9 +27,12 @@ Soy graduado en Tecnología Digital y Multimedia por la UPV y me interesa sobre 
 **Frameworks y librerías:**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=1F6F8B" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white&color=2B6CB0" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&color=303030" alt="Expo" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=3C873A" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&color=303030" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=3F8F3F" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white&color=303030" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=0E7A55" alt="FastAPI" />
   <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white&color=111F68" alt="YOLO" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=5C3EE8" alt="OpenCV" />
@@ -94,6 +97,32 @@ Soy graduado en Tecnología Digital y Multimedia por la UPV y me interesa sobre 
 
 <p align="left">
   <a href="https://github.com/miiguelg13/codle" target="_blank"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white&color=303030" alt="Repositorio" /></a>&nbsp;&nbsp;<a href="https://codle-04p4.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Web_en_vivo-0E7A55?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web en vivo" /></a>
+</p>
+
+</details>
+
+<details open>
+<summary><b>3. Pelimatch</b> · Un «Tinder de películas» para parejas</summary>
+
+*App para Android en la que los dos deslizáis el mismo mazo de películas y, cuando a los dos os gusta una, hay match al instante en los dos móviles.*
+
+- Importa el export de **Letterboxd** y relee su RSS cada hora para no proponer nunca lo que alguno ya ha visto; las películas que están en las dos watchlists salen primero.
+- Mazo con recomendaciones y populares de **TMDB**, con filtros por género, duración, años y plataformas de streaming en España.
+- Matches en tiempo real con **Socket.IO** y deslizamiento en el hilo de UI con **Reanimated 4** y Gesture Handler.
+- Actualizaciones sin reinstalar con **EAS Update**; servidor desplegado en **Render** con **MongoDB Atlas**.
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="28" height="28" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="expo" width="28" height="28" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="28" height="28" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="28" height="28" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="28" height="28" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="28" height="28" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/miiguelg13/pelimatch" target="_blank"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white&color=303030" alt="Repositorio" /></a>
 </p>
 
 </details>
